@@ -1,6 +1,6 @@
 cask "stratisland" do
   version "1.1"
-  sha256 :no_check
+  sha256 "4447982f1510c9fcff8ed472f94255c9708896e1de5de7685858a8c1981063b4"
 
   url "https://github.com/thestratcore/StratIsland-swift/releases/download/v#{version}/StratIsland-#{version}.dmg"
   name "StratIsland"
